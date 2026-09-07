@@ -1,9 +1,45 @@
-# Connect AI auto-generated
+# 운영체제에서 자동으로 생성되는 파일
 .DS_Store
+Thumbs.db
+
+# Connect AI 및 메모 앱 설정 폴더
 .obsidian/
 .trash/
+
+# Node.js 패키지
 node_modules/
+
+# 환경변수와 비밀 정보
+.env
+.env.*
+!.env.example
+
+# 로그와 임시 파일
 *.tmp
 *.log
 .cache/
-Thumbs.db
+
+# 빌드 결과물
+dist/
+build/
+out/
+
+# 로컬 개발용 데이터와 개인 설정
+*.local
+*.secret
+
+# 대용량 AI 모델 파일
+*.gguf
+*.safetensors
+*.ckpt
+*.bin
+
+# Python 캐시
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 테스트 및 커버리지 결과
+coverage/
+.nyc_output/
