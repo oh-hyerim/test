@@ -33,14 +33,24 @@
 - `_shared/`, `_agents/*/memory.md`, `_agents/*/prompt.md`, `sessions/` → git sync ✅
 - `_agents/*/config.md`, `_cache/` → git sync ❌ (시크릿·캐시)
 
-## 7명의 에이전트
-- 🧭 **CEO** (Chief Executive Agent): 오케스트레이션, 작업 분해, 종합 판단, 다음 액션 결정
-- 📺 **레오** (Head of YouTube): 유튜브 채널 운영, 영상 기획서(제목·후크·구조), 트렌드 분석, 썸네일 브리프, 업로드 메타데이터, 시청자 유지율 전략
-- 📷 **Instagram** (Head of Instagram): 인스타그램 릴스/피드 콘셉트, 캡션, 해시태그 전략, 게시 시간, 스토리, 팔로워 인게이지먼트
-- 🎨 **Designer** (Lead Designer): 브랜드 디자인 브리프(컬러·타이포·레퍼런스), 썸네일 컨셉 3안, 비주얼 시스템, 디자인 가이드
-- 💻 **코다리** (시니어 풀스택 엔지니어): 코드 작성·편집·디버깅, 자동화 스크립트, API 통합, 웹사이트/봇, 데이터 파이프라인, git 워크플로, 자기 검증 루프
-- 💼 **현빈** (비즈니스 전략가 · Head of Business): 수익화 모델, 가격 전략, 시장·경쟁 분석, ROI/KPI 설계, 비즈니스 의사결정
-- 📱 **영숙** (비서 · Personal Assistant): 일정·할 일 관리, 다른 에이전트 작업 요약·텔레그램 보고, 데일리 브리핑, 알림
-- 🎵 **루나** (Sound Director & Composer): 영상 BGM 자동 생성 (MusicGen/ACE-Step 로컬 모델), 사운드 디자인, 영상-음악 합성, 자막·타이틀 동기화, 오디오 후처리
-- ✍️ **Writer** (Copywriter): 카피라이팅, 영상 스크립트 초안, 인스타 캡션, 블로그 글, 메일 톤앤매너, 후크 작성
-- 🔍 **Researcher** (Trend & Data Researcher): 트렌드 리서치, 경쟁사 분석, 데이터 수집·요약, 인용 자료 정리, 사실 확인
+## 18명의 에이전트
+- 🧭 **CEO**: 오케스트레이션, 작업 분해, 종합 판단, 다음 액션 결정
+- 💼 **Business**: 수익화 모델, 가격 전략, 시장·경쟁·ROI·KPI 분석
+- 📋 **Product Manager**: 고객 문제, MVP 범위, 요구사항, 우선순위, 수용 기준
+- 🔍 **Researcher**: 시장·경쟁·공개 자료·논문 조사와 사실 확인
+- 🧑‍🤝‍🧑 **Customer Research**: 인터뷰·설문·사용성 테스트와 고객 문제 검증
+- 🧴 **Skin & Cosmetic Advisor**: 피부·화장품·성분·논문 전문 자문
+- 🗃️ **Knowledge Curator**: 출처·지식 버전·충돌·업데이트 상태 관리
+- 🤖 **AI & Recommendation Specialist**: AI 분석·추천 기준·평가·변경 관리
+- 🎨 **Designer**: UX/UI·사용자 흐름·디자인 시스템
+- 💻 **Developer**: 앱 개발·API·데이터·테스트·배포 준비
+- ✍️ **Writer**: UX 라이팅·제품 문서·사용자 안내
+- 🛡️ **QA & Safety**: 기능·보안·개인정보·피부 안전·출시 검수
+- ⚖️ **Legal & Privacy Advisor**: 법률·개인정보·의료·플랫폼 정책 검토
+- 📊 **Data & Experimentation Analyst**: 제품 지표·퍼널·실험·행동 데이터 분석
+- 🤝 **Customer Success**: 베타 사용자 지원·문의·피드백·이탈 신호
+- 📈 **Growth**: 출시·사용자 획득·채널·성장 실험
+- 📱 **Secretary**: 일정·업무·보고·알림 관리
+- 🎵 **Editor**: 전체 산출물 품질·일관성 및 편집 검수
+
+> Instagram과 YouTube는 새 Growth 구조가 검증될 때까지 기존 폴더와 설정을 유지하지만, 현재 기본 업무 배정에서는 제외한다.

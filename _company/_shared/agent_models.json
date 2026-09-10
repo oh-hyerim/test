@@ -8,5 +8,15 @@
   "secretary": "llama3.2:1b",
   "editor": "gemma4:e2b",
   "writer": "gemma4:e2b",
-  "researcher": "gemma4:e2b"
+  "researcher": "gemma4:e2b",
+  "product_manager": "gemma4:e2b",
+  "customer_research": "gemma4:e2b",
+  "skin_advisor": "gemma4:e2b",
+  "qa_safety": "gemma4:e2b",
+  "legal_privacy": "gemma4:e2b",
+  "data_analyst": "gemma4:e2b",
+  "growth": "gemma4:e2b",
+  "knowledge_curator": "gemma4:e2b",
+  "customer_success": "gemma4:e2b",
+  "ai_recommendation": "gemma4:e2b"
 }

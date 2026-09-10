@@ -33,5 +33,45 @@
     "activatedAt": "2026-09-07T05:18:02.097Z",
     "seeded": true
   },
-  "_migrated_v3": true
+  "_migrated_v3": true,
+  "product_manager": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "customer_research": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "skin_advisor": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "qa_safety": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "legal_privacy": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "data_analyst": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "growth": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "knowledge_curator": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "customer_success": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  },
+  "ai_recommendation": {
+    "activatedAt": "2026-09-10T06:02:16.347087Z",
+    "seeded": true
+  }
 }
