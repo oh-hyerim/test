@@ -8,5 +8,6 @@
   "secretary": "qwen3:4b",
   "editor": "qwen3:4b",
   "writer": "qwen3:4b",
-  "researcher": "qwen3:4b"
+  "researcher": "qwen3:4b",
+  "skinCosmeticAdvisor": "qwen3:4b"
 }
